@@ -1,0 +1,6 @@
+print("What is your name? ")
+name=input()
+print("What is your age? ")
+age=int(input())
+year=2020+(100-age)
+print(name," will be 100 years old in the year ",year)
